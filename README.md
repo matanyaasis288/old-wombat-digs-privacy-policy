@@ -1,2 +1,3 @@
-# old-wombat-digs-privacy-policy
-Privacy policy for Old Wombat Digs
+# Old Wombat Digs: privacy policy
+
+The privacy policy of the game Old Wombat Digs: [old-wombat-digs-privacy-policy.md](old-wombat-digs-privacy-policy.md)
