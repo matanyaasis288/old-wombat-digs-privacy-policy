@@ -1,10 +1,10 @@
 # Old Wombat Digs: Privacy Policy
 
-Last updated: November 19, 2026
+Last updated: November 23, 2026
 
 Old Wombat Digs is a puzzle game for Android phones and tablets and for iPhone and iPad, made by Matanya Asis, trading as As Is ("we", "us"). We are responsible for the information described here. Contact: matanya.asis288@gmail.com.
 
-The short version: the game is free and shows ads from Google AdMob between some levels, and Google collects some device data to show and measure those ads. A one-time "Remove ads" purchase turns the ads off. Meta's SDK also counts installs from our own ads on Facebook and Instagram, and on iPhone and iPad Tenjin's SDK counts installs from our own ads shown inside other apps and games (see "Counting installs from our own ads" below). Your progress is saved only on your own device. The game has no accounts and no analytics of its own, and we don't keep any personal information about you.
+The short version: the game is free and shows ads from Google AdMob (full-screen ads between some levels and, after the first ten levels, a small banner under the game), and Google collects some device data to show and measure those ads. A one-time "Remove ads" purchase turns the ads off. Meta's SDK also counts installs from our own ads on Facebook and Instagram, and on iPhone and iPad Tenjin's SDK counts installs from our own ads shown inside other apps and games (see "Counting installs from our own ads" below). Your progress is saved only on your own device. The game has no accounts and no analytics of its own, and we don't keep any personal information about you.
 
 ## What the game saves
 
@@ -12,9 +12,17 @@ The short version: the game is free and shows ads from Google AdMob between some
 - **Device backup.** If device backup is on (Android backup with your Google account, or iCloud backup on iPhone and iPad), the backup may include this small save file. That backup is handled by Google or Apple under your own account, not by us, and we can't see it.
 - **Deleting it.** "Reset progress" in the game's Settings clears your progress. Uninstalling the game deletes everything it saved on the device.
 
+## Cloud save, achievements and the leaderboard
+
+These are optional. The game plays the same without them.
+
+- **Android (Google Play Games).** If you have a Google Play Games profile, the game can sign you in to it (automatically, or when you tap "Sign in to Play Games" in the game's Settings). It then keeps a small copy of your progress (the levels you've finished, with your best number of swipes and stars for each) in Play Games' Saved Games under your own Google Account, so you can carry on from another phone or tablet. It also tells Play Games which of the game's achievements you earned and your star count for the game's leaderboard, where other players can see it next to your Play Games gamer name. The game reads your gamer name only to show it to you in Settings. Google keeps all this as described in the Google Privacy Policy (https://policies.google.com/privacy). We don't receive it and can't see it.
+- **iPhone and iPad (iCloud and Game Center).** If your device is signed in to iCloud, the game keeps the same small copy of your progress in iCloud key-value storage under your Apple Account. The game never asks you to sign in for this. If your device is signed in to Game Center, the game tells Game Center which achievements you earned and your star count for the leaderboard, where other players can see it next to your Game Center nickname, as your Game Center settings allow. Apple keeps all this as described in Apple's Privacy Policy (https://www.apple.com/legal/privacy/). We don't receive it and can't see it.
+- **Deleting it.** On Android, delete Old Wombat Digs' data from your Play Games profile (in the Play Games app, or in your phone's Settings > Google > Play Games), or delete your whole Play Games profile in your Google Account. On iPhone and iPad, delete the game's data in Settings > [your name] > iCloud > Manage Account Storage, and remove the game from Game Center in Settings > Game Center. "Reset progress" in the game's Settings also clears the cloud copy of your progress; scores and achievements already sent stay with Play Games or Game Center until you delete them there.
+
 ## Ads
 
-The game shows full-screen ads from Google AdMob between some levels: none on the first ten levels, and after that one every few levels you finish or fail. There are no ads while you are digging.
+The game shows ads from Google AdMob: full-screen ads between some levels (none on the first ten levels, and after that one every few levels you finish or fail), and, once you have finished the tenth level, a small banner ad in a strip of its own under the level list and under the burrow. No ad ever covers the burrow while you are digging.
 
 To show ads, limit how often you see them, measure them and prevent fraud, Google's AdMob service may collect from your device:
 
@@ -57,9 +65,9 @@ The optional one-time "Remove ads" purchase is handled entirely by Google Play, 
 
 ## What the game doesn't do
 
-- **No account.** The game never asks for a name, an email address, an age, a photo or any other personal detail, and there is nothing to type in.
+- **No account with us.** Play Games and Game Center (see "Cloud save, achievements and the leaderboard") are your own Google and Apple accounts. The game itself never asks for a name, an email address, an age, a photo or any other personal detail, and there is nothing to type in.
 - **No analytics of our own.** Apart from Google's ad service, the install counts for our own ads (Meta's and Tenjin's SDKs) and the store's purchase service, all described above, the game contains no analytics or crash-reporting software, and nothing of how you play is sent anywhere. There is no Facebook or Instagram sign-in or sharing.
-- **No permissions for your personal things.** The game doesn't use your precise location, camera, microphone, contacts, photos or notifications. It uses the internet only for the ads, the install counts and the purchase.
+- **No permissions for your personal things.** The game doesn't use your precise location, camera, microphone, contacts, photos or notifications. It uses the internet only for the ads, the install counts, the purchase, and cloud save, achievements and the leaderboard.
 
 ## The link to this page
 
@@ -73,15 +81,15 @@ Parents and guardians: if you have a question, or think a child's information re
 
 ## How long information is kept
 
-We don't collect or keep any personal information. Your game progress stays on your device until you reset it or uninstall the game. Information Google collects through ads is kept as described in the Google Privacy Policy (https://policies.google.com/technologies/retention). Information Meta, Tenjin or AppLovin receive is kept as described in their privacy policies (see above).
+We don't collect or keep any personal information. Your game progress stays on your device until you reset it or uninstall the game. A cloud copy of your progress, your achievements and your leaderboard score stay in your own Google Play Games, iCloud or Game Center account until you delete them there (see "Cloud save, achievements and the leaderboard"). Information Google collects through ads is kept as described in the Google Privacy Policy (https://policies.google.com/technologies/retention). Information Meta, Tenjin or AppLovin receive is kept as described in their privacy policies (see above).
 
 ## Legal bases (EEA, UK and Switzerland)
 
-Personalized ads are shown only with your consent, which you can change at any time from "Privacy settings"; otherwise ads are based on Google's legitimate interests and limited data as Google describes. Google may process information outside your country, under its own data transfer safeguards (such as the EU Standard Contractual Clauses). The install counts for our own ads (Meta's and Tenjin's) are not turned on in these countries.
+Cloud save, achievements and the leaderboard are kept in your own Google or Apple account to provide the feature you use. Personalized ads are shown only with your consent, which you can change at any time from "Privacy settings"; otherwise ads are based on Google's legitimate interests and limited data as Google describes. Google may process information outside your country, under its own data transfer safeguards (such as the EU Standard Contractual Clauses). The install counts for our own ads (Meta's and Tenjin's) are not turned on in these countries.
 
 ## Your rights
 
-Because we hold no personal information about you, there is nothing for us to access, correct or delete. You can still contact us about any privacy question, and if you are in the European Economic Area, the UK or Switzerland you can also complain to your local data protection authority. For information Google collects through ads, you can use Google's controls at https://myadcenter.google.com and the rights described in the Google Privacy Policy; for what Meta, Tenjin or AppLovin receive (see above), the choices and rights described in their privacy policies.
+Because we hold no personal information about you, there is nothing for us to access, correct or delete. Your cloud save, achievements and leaderboard score are in your own Google Play Games, iCloud or Game Center account, where you can delete them yourself. You can still contact us about any privacy question, and if you are in the European Economic Area, the UK or Switzerland you can also complain to your local data protection authority. For information Google collects through ads, you can use Google's controls at https://myadcenter.google.com and the rights described in the Google Privacy Policy; for what Meta, Tenjin or AppLovin receive (see above), the choices and rights described in their privacy policies.
 
 ## Changes
 
