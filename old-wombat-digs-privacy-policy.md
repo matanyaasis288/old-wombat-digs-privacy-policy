@@ -1,6 +1,6 @@
 # Old Wombat Digs: Privacy Policy
 
-Last updated: November 23, 2026
+Last updated: November 24, 2026
 
 Old Wombat Digs is a puzzle game for Android phones and tablets and for iPhone and iPad, made by Matanya Asis, trading as As Is ("we", "us"). We are responsible for the information described here. Contact: matanya.asis288@gmail.com.
 
@@ -75,7 +75,7 @@ The optional one-time "Remove ads" purchase is handled entirely by Google Play, 
 
 ## Children
 
-Old Wombat Digs is a puzzle game for a general audience. It is not directed at children under 13, and we don't knowingly collect personal information from children. The game has no chat, no accounts and no way to share anything from the game. Ads are limited to those Google rates as suitable for general audiences with parental guidance (PG) or milder.
+Old Wombat Digs is a puzzle game for players aged 13 and over. It is not directed at children under 13, and we don't knowingly collect personal information from children. The game has no chat, no accounts and no way to share anything from the game. Ads are limited to those Google rates as suitable for general audiences with parental guidance (PG) or milder.
 
 Parents and guardians: if you have a question, or think a child's information reached us, email matanya.asis288@gmail.com and we'll help.
 
