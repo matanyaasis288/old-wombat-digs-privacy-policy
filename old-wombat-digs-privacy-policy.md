@@ -4,7 +4,7 @@ Last updated: November 24, 2026
 
 Old Wombat Digs is a puzzle game for Android phones and tablets and for iPhone and iPad, made by Matanya Asis, trading as As Is ("we", "us"). We are responsible for the information described here. Contact: matanya.asis288@gmail.com.
 
-The short version: the game is free and shows ads from Google AdMob (full-screen ads between some levels and, after the first ten levels, a small banner under the game), and Google collects some device data to show and measure those ads. A one-time "Remove ads" purchase turns the ads off. Meta's SDK also counts installs from our own ads on Facebook and Instagram, and on iPhone and iPad Tenjin's SDK counts installs from our own ads shown inside other apps and games (see "Counting installs from our own ads" below). Your progress is saved only on your own device. The game has no accounts and no analytics of its own, and we don't keep any personal information about you.
+The short version: the game is free and shows ads from Google AdMob (full-screen ads between some levels and, after the first ten levels, a small banner under the game), and Google collects some device data to show and measure those ads. A one-time "Remove ads" purchase turns the ads off. Meta's SDK also counts installs from our own ads on Facebook and Instagram, and on iPhone and iPad Tenjin's SDK counts installs from our own ads shown inside other apps and games (see "Counting installs from our own ads" below). Your progress is saved only on your own device. The game adds to anonymous daily totals on our game server (like "level 12 finished today") that can't be traced to anyone. The game has no accounts, and we don't keep any personal information about you.
 
 ## What the game saves
 
@@ -68,6 +68,12 @@ In "Multiplayer" you can play a Dig Duel against a friend on another phone: one 
 - **Who sees it:** the other player in the same room. Anyone who knows a room's code can join it while it is open, so give a code only to the person you want to play.
 - **How long it is kept:** the messages are passed on live and are gone when the room closes. We don't store them in a database, and we don't use them for ads or profiles. Supabase may keep short-lived technical logs (such as connection records) for security, as described at https://supabase.com/privacy.
 
+## Anonymous totals
+
+To see how the game is played and where it needs work, the game adds one to a daily total on our Supabase server (the same hosting service as for online duels, in Frankfurt, Germany) when something happens: the game opened, a phone's first play of the day (with whether it is the phone's first day with the game, the day after, or about how many days later), whether music, sounds or vibration are off, whether "Remove ads" is owned and whether the banner is showing, a level or chess level started, finished (and whether for the first time, with three stars or with opal stars), failed or left, the Chess or Multiplayer screen opened, a room made or joined, a duel started, finished or left (on one phone or online), a full-screen ad shown or one that wasn't ready, and "Remove ads" tapped, bought or restored.
+
+All that is kept is the day, what happened, the level number where there is one, whether it was Android or iPhone/iPad, the game's version, and the running total. No ID, name, room code or device details go with it, so a total looks the same whoever added to it and can't be linked to you or to anyone else. The days your phone needs for this (its first day with the game and the last day it counted) stay on your device and are never sent. Your device's IP address is seen by the server to make the connection, as with any internet service; we don't store it with the totals or use it. We use the totals only to improve the game.
+
 ## Purchases
 
 The optional one-time "Remove ads" purchase is handled entirely by Google Play, or on iPhone and iPad by the App Store. We never see your payment details. The game only learns from the store whether the purchase belongs to your store account, so it can turn the ads off, also on another device or after a new install ("Restore purchases" in Settings). Your purchase is covered by the Google Privacy Policy (https://policies.google.com/privacy) or Apple's Privacy Policy (https://www.apple.com/legal/privacy/). The purchase only removes ads; it never opens or skips levels.
@@ -75,8 +81,8 @@ The optional one-time "Remove ads" purchase is handled entirely by Google Play, 
 ## What the game doesn't do
 
 - **No account with us.** Play Games and Game Center (see "Cloud save, achievements and the leaderboard") are your own Google and Apple accounts. The game itself never asks for a name, an email address, an age, a photo or any other personal detail, and the only thing you can type in is a friend's four-letter room code (see "Playing a friend online").
-- **No analytics of our own.** Apart from Google's ad service, the install counts for our own ads (Meta's and Tenjin's SDKs) and the store's purchase service, all described above, the game contains no analytics or crash-reporting software, and nothing of how you play is sent anywhere. There is no Facebook or Instagram sign-in or sharing.
-- **No permissions for your personal things.** The game doesn't use your precise location, camera, microphone, contacts, photos or notifications. It uses the internet only for the ads, the install counts, the purchase, cloud save, achievements and the leaderboard, and an online duel when you open a room.
+- **No analytics about you.** Apart from Google's ad service, the install counts for our own ads (Meta's and Tenjin's SDKs), the store's purchase service and the anonymous totals, all described above, the game contains no analytics or crash-reporting software, and nothing that could tell how you in particular play is sent anywhere. There is no Facebook or Instagram sign-in or sharing.
+- **No permissions for your personal things.** The game doesn't use your precise location, camera, microphone, contacts, photos or notifications. It uses the internet only for the ads, the install counts, the purchase, cloud save, achievements and the leaderboard, the anonymous totals, and an online duel when you open a room.
 
 ## The link to this page
 
@@ -90,11 +96,11 @@ Parents and guardians: if you have a question, or think a child's information re
 
 ## How long information is kept
 
-We don't collect or keep any personal information. An online duel's messages are kept only while its room is open. Your game progress stays on your device until you reset it or uninstall the game. A cloud copy of your progress, your achievements and your leaderboard score stay in your own Google Play Games, iCloud or Game Center account until you delete them there (see "Cloud save, achievements and the leaderboard"). Information Google collects through ads is kept as described in the Google Privacy Policy (https://policies.google.com/technologies/retention). Information Meta, Tenjin or AppLovin receive is kept as described in their privacy policies (see above).
+We don't collect or keep any personal information. The anonymous totals contain nothing about anyone (see "Anonymous totals"). An online duel's messages are kept only while its room is open. Your game progress stays on your device until you reset it or uninstall the game. A cloud copy of your progress, your achievements and your leaderboard score stay in your own Google Play Games, iCloud or Game Center account until you delete them there (see "Cloud save, achievements and the leaderboard"). Information Google collects through ads is kept as described in the Google Privacy Policy (https://policies.google.com/technologies/retention). Information Meta, Tenjin or AppLovin receive is kept as described in their privacy policies (see above).
 
 ## Legal bases (EEA, UK and Switzerland)
 
-Cloud save, achievements and the leaderboard are kept in your own Google or Apple account, and an online duel's messages are passed between the two phones, to provide the feature you use. Personalized ads are shown only with your consent, which you can change at any time from "Privacy settings"; otherwise ads are based on Google's legitimate interests and limited data as Google describes. Google and Supabase may process information outside your country, under their own data transfer safeguards (such as the EU Standard Contractual Clauses). The install counts for our own ads (Meta's and Tenjin's) are not turned on in these countries.
+Cloud save, achievements and the leaderboard are kept in your own Google or Apple account, and an online duel's messages are passed between the two phones, to provide the feature you use. Personalized ads are shown only with your consent, which you can change at any time from "Privacy settings"; otherwise ads are based on Google's legitimate interests and limited data as Google describes. Google and Supabase may process information outside your country, under their own data transfer safeguards (such as the EU Standard Contractual Clauses). The install counts for our own ads (Meta's and Tenjin's) are not turned on in these countries. The anonymous totals hold no personal data.
 
 ## Your rights
 
