@@ -1,6 +1,6 @@
 # Old Wombat Digs: Privacy Policy
 
-Last updated: November 24, 2026
+Last updated: November 25, 2026
 
 Old Wombat Digs is a puzzle game for Android phones and tablets and for iPhone and iPad, made by Matanya Asis, trading as As Is ("we", "us"). We are responsible for the information described here. Contact: matanya.asis288@gmail.com.
 
@@ -68,6 +68,10 @@ In "Multiplayer" you can play a Dig Duel against a friend on another phone: one 
 - **Who sees it:** the other player in the same room. Anyone who knows a room's code can join it while it is open, so give a code only to the person you want to play.
 - **How long it is kept:** the messages are passed on live and are gone when the room closes. We don't store them in a database, and we don't use them for ads or profiles. Supabase may keep short-lived technical logs (such as connection records) for security, as described at https://supabase.com/privacy.
 
+## Reminders
+
+If you allow notifications, the game may show up to two friendly reminders when you haven't played for a while: one 2 days after you last played and one 5 days after, then nothing more until you play again (for example "Level 43 is waiting for you"). They are set by the game on your own device from your saved progress: no server sends them, and nothing about you leaves your device for them. Opening the game takes them away. Your device asks before the game can show any (after you finish level 5, never on first launch), and you can turn them off at any time with "Reminders" in the game's Settings, or in your device's settings.
+
 ## Anonymous totals
 
 To see how the game is played and where it needs work, the game adds one to a daily total on our Supabase server (the same hosting service as for online duels, in Frankfurt, Germany) when something happens: the game opened, a phone's first play of the day (with whether it is the phone's first day with the game, the day after, or about how many days later), whether music, sounds or vibration are off, whether "Remove ads" is owned and whether the banner is showing, a level or chess level started, finished (and whether for the first time, with three stars or with opal stars), failed or left, the Chess or Multiplayer screen opened, a room made or joined, a duel started, finished or left (on one phone or online), a full-screen ad shown or one that wasn't ready, and "Remove ads" tapped, bought or restored.
@@ -82,7 +86,7 @@ The optional one-time "Remove ads" purchase is handled entirely by Google Play, 
 
 - **No account with us.** Play Games and Game Center (see "Cloud save, achievements and the leaderboard") are your own Google and Apple accounts. The game itself never asks for a name, an email address, an age, a photo or any other personal detail, and the only thing you can type in is a friend's four-letter room code (see "Playing a friend online").
 - **No analytics about you.** Apart from Google's ad service, the install counts for our own ads (Meta's and Tenjin's SDKs), the store's purchase service and the anonymous totals, all described above, the game contains no analytics or crash-reporting software, and nothing that could tell how you in particular play is sent anywhere. There is no Facebook or Instagram sign-in or sharing.
-- **No permissions for your personal things.** The game doesn't use your precise location, camera, microphone, contacts, photos or notifications. It uses the internet only for the ads, the install counts, the purchase, cloud save, achievements and the leaderboard, the anonymous totals, and an online duel when you open a room.
+- **No permissions for your personal things.** The game doesn't use your precise location, camera, microphone, contacts or photos, and notifications only for the reminders described above, if you allow them. It uses the internet only for the ads, the install counts, the purchase, cloud save, achievements and the leaderboard, the anonymous totals, and an online duel when you open a room.
 
 ## The link to this page
 
