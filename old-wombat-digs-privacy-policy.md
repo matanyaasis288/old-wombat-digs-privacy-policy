@@ -1,10 +1,10 @@
 # Old Wombat Digs: Privacy Policy
 
-Last updated: November 25, 2026
+Last updated: November 27, 2026
 
 Old Wombat Digs is a puzzle game for Android phones and tablets and for iPhone and iPad, made by Matanya Asis, trading as As Is ("we", "us"). We are responsible for the information described here. Contact: matanya.asis288@gmail.com.
 
-The short version: the game is free and shows ads from Google AdMob (full-screen ads between some levels and, after the first ten levels, a small banner under the game), and Google collects some device data to show and measure those ads. A one-time "Remove ads" purchase turns the ads off. Meta's SDK also counts installs from our own ads on Facebook and Instagram, and on iPhone and iPad Tenjin's SDK counts installs from our own ads shown inside other apps and games (see "Counting installs from our own ads" below). Your progress is saved only on your own device. The game adds to anonymous daily totals on our game server (like "level 12 finished today") that can't be traced to anyone. The game has no accounts, and we don't keep any personal information about you.
+The short version: the game is free and shows ads through Google AdMob (full-screen ads between some levels and, after the first ten levels, a small banner under the game); those ads come from Google or, through AdMob, from AppLovin or Meta Audience Network, which collect some device data to show and measure them. A one-time "Remove ads" purchase turns the ads off. Meta's SDK also counts installs from our own ads on Facebook and Instagram, and on iPhone and iPad Tenjin's SDK counts installs from our own ads shown inside other apps and games (see "Counting installs from our own ads" below). Your progress is saved only on your own device. The game adds to anonymous daily totals on our game server (like "level 12 finished today") that can't be traced to anyone. The game has no accounts, and we don't keep any personal information about you.
 
 ## What the game saves
 
@@ -22,21 +22,27 @@ These are optional. The game plays the same without them.
 
 ## Ads
 
-The game shows ads from Google AdMob: full-screen ads between some levels (none on the first ten levels, and after that one every few levels you finish or fail), and, once you have finished the tenth level, a small banner ad in a strip of its own under the level list and under the burrow. No ad ever covers the burrow while you are digging.
+The game shows ads through Google AdMob: full-screen ads between some levels (none on the first ten levels, and after that one every few levels you finish or fail), and, once you have finished the tenth level, a small banner ad in a strip of its own under the level list and under the burrow. No ad ever covers the burrow while you are digging.
 
-To show ads, limit how often you see them, measure them and prevent fraud, Google's AdMob service may collect from your device:
+Each ad comes from Google or from one of two other ad networks that AdMob asks for an ad at the same time ("mediation"), whichever offers the best ad for that moment:
+
+- **Google** (Google LLC), through AdMob,
+- **AppLovin** (AppLovin Corporation),
+- **Meta Audience Network** (Meta Platforms, Inc.), Meta's network for ads inside apps.
+
+To show ads, limit how often you see them, measure them and prevent fraud, these ad networks may collect from your device:
 
 - your device's advertising ID and other device identifiers,
 - your IP address and the approximate location derived from it,
 - information about the ads you see and how you interact with them,
 - diagnostic and performance information about the ad service.
 
-Google handles this information as described in "How Google uses information from sites or apps that use our services": https://policies.google.com/technologies/partner-sites and in the Google Privacy Policy: https://policies.google.com/privacy. We don't receive this information and can't link it to you.
+Each network handles this information as its own policy describes: Google in "How Google uses information from sites or apps that use our services": https://policies.google.com/technologies/partner-sites and in the Google Privacy Policy: https://policies.google.com/privacy; AppLovin in its Privacy Policy: https://www.applovin.com/privacy; Meta in its Privacy Policy: https://www.facebook.com/privacy/policy. The other two networks are only asked for an ad, and are only started, after the consent step described below, and they get the same consent answer as Google. We don't receive this information and can't link it to you.
 
 **Your choices**
 
-- Where the law requires it (for example in the European Economic Area, the UK and Switzerland), the game asks for your consent before any ad is requested. You can change your choice at any time from "Privacy settings" in the game's Settings.
-- On iPhone and iPad, the game asks for permission to track (Apple's App Tracking Transparency) before any personalized ads; if you choose "Ask App Not to Track", you only see non-personalized ads, and the install counts for our own ads (Meta's and Tenjin's, see below) get no advertising ID. You can change this anytime in Settings > Privacy & Security > Tracking.
+- Where the law requires it (for example in the European Economic Area, the UK and Switzerland), the game asks for your consent before any ad is requested, and the consent form lists every ad network and partner. You can change your choice at any time from "Privacy settings" in the game's Settings, and the change applies to all three networks.
+- On iPhone and iPad, the game asks for permission to track (Apple's App Tracking Transparency) before any personalized ads; if you choose "Ask App Not to Track", you only see non-personalized ads (the game tells Google, AppLovin and Meta Audience Network your answer), and the install counts for our own ads (Meta's and Tenjin's, see below) get no advertising ID. You can change this anytime in Settings > Privacy & Security > Tracking.
 - On Android, you can reset or delete your advertising ID, or opt out of personalized ads, in your device's settings (Settings > Privacy > Ads, or Settings > Google > Ads, depending on your device). Once deleted, the install count for our own ads (Meta's, see below) gets no advertising ID either.
 - The one-time "Remove ads" purchase turns the ads off.
 
@@ -87,7 +93,7 @@ The optional one-time "Remove ads" purchase is handled entirely by Google Play, 
 ## What the game doesn't do
 
 - **No account with us.** Play Games and Game Center (see "Cloud save, achievements and the leaderboard") are your own Google and Apple accounts. The game itself never asks for a name, an email address, an age, a photo or any other personal detail, and the only thing you can type in is a friend's four-letter room code (see "Playing a friend online").
-- **No analytics about you.** Apart from Google's ad service, the install counts for our own ads (Meta's and Tenjin's SDKs), the store's purchase service and the anonymous totals, all described above, the game contains no analytics or crash-reporting software, and nothing that could tell how you in particular play is sent anywhere. There is no Facebook or Instagram sign-in or sharing.
+- **No analytics about you.** Apart from the ad networks (Google, AppLovin and Meta Audience Network), the install counts for our own ads (Meta's and Tenjin's SDKs), the store's purchase service and the anonymous totals, all described above, the game contains no analytics or crash-reporting software, and nothing that could tell how you in particular play is sent anywhere. There is no Facebook or Instagram sign-in or sharing.
 - **No permissions for your personal things.** The game doesn't use your precise location, camera, microphone, contacts or photos, and notifications only for the reminders described above, if you allow them. It uses the internet only for the ads, the install counts, the purchase, cloud save, achievements and the leaderboard, the anonymous totals, and an online duel when you open a room.
 
 ## The link to this page
@@ -96,7 +102,7 @@ The optional one-time "Remove ads" purchase is handled entirely by Google Play, 
 
 ## Children
 
-Old Wombat Digs is a puzzle game for players aged 13 and over. It is not directed at children under 13, and we don't knowingly collect personal information from children. The game has no chat, no accounts with us and no way to share anything from the game; an online duel passes only moves, never a name or a message. Ads are limited to those Google rates as suitable for general audiences with parental guidance (PG) or milder.
+Old Wombat Digs is a puzzle game for players aged 13 and over. It is not directed at children under 13, and we don't knowingly collect personal information from children. The game has no chat, no accounts with us and no way to share anything from the game; an online duel passes only moves, never a name or a message. Google's ads are limited to those Google rates as suitable for general audiences with parental guidance (PG) or milder; AppLovin's and Meta Audience Network's ads follow those networks' own content rules, with sensitive categories blocked in their settings.
 
 Parents and guardians: if you have a question, or think a child's information reached us, email matanya.asis288@gmail.com and we'll help.
 
@@ -106,7 +112,7 @@ We don't collect or keep any personal information. The anonymous totals contain 
 
 ## Legal bases (EEA, UK and Switzerland)
 
-Cloud save, achievements and the leaderboard are kept in your own Google or Apple account, and an online duel's messages are passed between the two phones, to provide the feature you use. Personalized ads are shown only with your consent, which you can change at any time from "Privacy settings"; otherwise ads are based on Google's legitimate interests and limited data as Google describes. Google and Supabase may process information outside your country, under their own data transfer safeguards (such as the EU Standard Contractual Clauses). The install counts for our own ads (Meta's and Tenjin's) are not turned on in these countries. The anonymous totals hold no personal data.
+Cloud save, achievements and the leaderboard are kept in your own Google or Apple account, and an online duel's messages are passed between the two phones, to provide the feature you use. Personalized ads are shown only with your consent, which you can change at any time from "Privacy settings"; otherwise ads are based on the ad networks' legitimate interests and limited data as each describes, and AppLovin and Meta Audience Network get the same consent answer as Google. Google, AppLovin, Meta and Supabase may process information outside your country, under their own data transfer safeguards (such as the EU Standard Contractual Clauses). The install counts for our own ads (Meta's and Tenjin's) are not turned on in these countries. The anonymous totals hold no personal data.
 
 ## Your rights
 
